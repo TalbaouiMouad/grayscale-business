@@ -1,0 +1,51 @@
+body{
+    background-color: white;
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* Proprietés du Haid */
+.bghead{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    position: absolute;
+}
+.container{
+    width: 75%;
+    margin: auto;
+    
+}
+.txt-sxxl{
+    font-size:xx-large;
+}
+.navlink{
+    color: rgba(255,255,255,.55);
+    display: block;
+    padding: 0.5rem 1rem;
+    text-decoration:none ;
+}
+.navlink:hover{
+    color: orange;  
+}
+
+.txt-r{
+    text-align: right;
+}
+h5{
+    color: #C0C0C0;
+}
+
+/* Proprieté du footer */
+footer{
+    padding: 2%;
+}
+footer p{
+   font-size:medium;
+}
+footer hr{
+    border-top: 2px black dashed;
+}
+footer a{
+    color: orange;
+    text-decoration: none;
+}
