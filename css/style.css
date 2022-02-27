@@ -62,6 +62,16 @@ h5{
     padding: 3%;
     
 }
+/* 3rd pge style */
+.titlesdiv{
+    position: relative;
+    background-color: white;
+    color: #777777;
+}
+.titlesdiv p a{
+    color: black;
+    text-decoration: none;
+}
 /* Proprieté du footer */
 footer{
     padding: 2%;
