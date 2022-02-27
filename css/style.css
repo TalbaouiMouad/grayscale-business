@@ -27,14 +27,41 @@ body{
 .navlink:hover{
     color: orange;  
 }
-
+/* First page Style */
 .txt-r{
     text-align: right;
 }
 h5{
     color: #C0C0C0;
 }
-
+.maindiv{
+    position:relative;
+    background-color: #EEEEEE;
+}
+.pa{
+    color: white;
+    text-decoration:none ;
+   
+}
+#lastimgfd{
+    background-color: #BFBFBF;
+}
+.imgbord{
+    padding: 0%;
+    border: #BFBFBF 10px solid;
+    margin-inline: 2px;
+}
+.cbut{
+    border: none;
+    width: 100%;
+    font-weight: bold;
+    text-align: right;
+}
+#bgld{
+    background-color: #EEEEEE;
+    padding: 3%;
+    
+}
 /* Proprieté du footer */
 footer{
     padding: 2%;
